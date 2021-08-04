@@ -8,6 +8,8 @@ La resolucion se encuentra en https://colab.research.google.com/drive/15jHPYnFcJ
 
 ## Instrucciones
 
+Se debe tener tener instalado graphviz (graphviz.org) antes de crear el ambiente.
+
 Se debe de descargar los csv en la carpeta content. 
 
 ### titanic-train.csv
@@ -21,7 +23,7 @@ Se debe de crear el ambiente con conda (crearAmbiente.sh ayuda en ello).
 Recuerde:
 
 ### activar ambiente
-conda activate ./envs
+conda activate ./env
 
 ### desactivar ambiente
 conda deactivate

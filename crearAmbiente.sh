@@ -1,3 +1,3 @@
 #!/bin/bash
 
-conda create --prefix ./envs --file requirements.txt
+conda create --prefix ./env --file requirements.txt
