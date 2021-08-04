@@ -1,0 +1,8 @@
+python
+jupyter
+pandas
+seaborn
+matplotlib
+pydotplus
+scikit-learn
+conda-forge/win-64::scikit-learn-intelex
