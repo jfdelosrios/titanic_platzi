@@ -17,13 +17,3 @@ https://static.platzi.com/media/public/uploads/titanic-train_4adcc656-193c-46d5-
 
 ### titanic-test.csv
 https://static.platzi.com/media/public/uploads/titanic-test_b6547a1c-55fe-4409-8e04-67b6678214a4.csv
-
-Se debe de crear el ambiente con conda (crearAmbiente.sh ayuda en ello).
-
-Recuerde:
-
-### activar ambiente
-conda activate ./env
-
-### desactivar ambiente
-conda deactivate
